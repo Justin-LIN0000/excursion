@@ -1,14 +1,29 @@
   body{
-    font-family: Veranda;
+    font-family: Verdana;
     background-color: #000;
     text-align: center;
   }
+
+  /* Headings */
 
   .header--main{
     font-weight: normal;
     font-size: 50px;
     color: white;
   }
+
+  .header2{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+  }
+
+  .belowheader2{
+    font-size: 21px;
+    color: gray;
+  }
+
+  /* Links */
 
   .linkcta{
     font-size: 16px;
