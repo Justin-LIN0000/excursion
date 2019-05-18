@@ -2,5 +2,15 @@
     font-family: Veranda;
     background-color: #000;
     text-align: center;
+  }
 
+  .header--main{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+  }
+
+  .linkcta{
+    font-size: 16px;
+    color: Aquamarine;
   }
